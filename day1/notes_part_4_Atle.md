@@ -1,5 +1,8 @@
 # Parsing Metadata from Filenames
 
+### Intro text
+- Typo in text: "Treatmet"
+
 ### Extracting Metadata from Fixed length strings
 - Typo in text: "relavant"
 

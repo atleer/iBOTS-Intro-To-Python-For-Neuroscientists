@@ -5,6 +5,8 @@
 - Built-in string operations, functions, and methods
     - Count, slicing/accessing, upper, split
 
+- They don't get examples for a lot of these operations/methods. Is the intention that they should look up which methods strings have and figure it out that way?
+
 ### Text files
 
 - Read and write to file
