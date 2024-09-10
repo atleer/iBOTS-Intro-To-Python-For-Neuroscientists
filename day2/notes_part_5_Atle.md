@@ -5,5 +5,6 @@
 ### Statistics functions from Numpy
 
 ### Arrays in Numpy
+- Intro: change "extremely" to "incredibly"
 
 ### Combining arrays and statistics functions and operators
